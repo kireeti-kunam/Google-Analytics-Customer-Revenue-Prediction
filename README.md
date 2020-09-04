@@ -20,6 +20,12 @@ provided by google. available at :https://www.kaggle.com/c/ga-customer-revenue-p
  - machine learning algorithms.
  - Data pre-processing techniques.
  
+### Regarding files:
+ - case_study.ipynb : This file contains everything from data collection, preprocessing, EDA, features building, Model building
+ - PipeLine.ipynb : In this file we implemented final pipe-line from scratch(with out using sklearn pipe-line)., So here we are taking raw data-point/querypoint from this function "final_fun_1(data_point)"., so internally this function featurize the raw data point and loads all our pretrained models finally it will return revenue for the given data point.
+
+ 
+ 
 ## Authors:
  - kireeti kunam
  
