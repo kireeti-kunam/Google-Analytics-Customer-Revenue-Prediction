@@ -28,6 +28,9 @@ provided by google. available at :https://www.kaggle.com/c/ga-customer-revenue-p
  
 ## Authors:
  - kireeti kunam
+
+## Blog:
+ - In this blog I explanied in detailed about this project. Please visit for more details: https://medium.com/analytics-vidhya/google-analytics-customer-revenue-prediction-e41da071d942
  
 ## Acknowledgments:
 Thanks to winners solution. We referred that to implement it in python -
